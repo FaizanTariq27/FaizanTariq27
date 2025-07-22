@@ -16,7 +16,7 @@
 - 🎮 [Sudoku Game – Built in Python](https://github.com/FaizanTariq27/SudokuGame)
 - 💻 [Laptop Store – Mobile App using Flutter](https://github.com/FaizanTariq27/LaptopStore)
 
-🌱 Currently learning: `Data Science`, `Machine Learning`, and `Blockchain`.
+🌱 Currently learning: `Data Science`, and `Machine Learning`.
 
 📫 Reach me at:
 - Gmail: `faizantariq2727@gmail.com`
