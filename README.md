@@ -30,7 +30,7 @@ I have experience working with Python for backend development, and I also enjoy 
 ## 📫 Contact Me  
 - **Email:** faizantariq2727@gmail.com  
 - **GitHub:** [FaizanTariq27](https://github.com/FaizanTariq27)  
-- **LinkedIn:** [linkedin.com/in/your-link](www.linkedin.com/in/faizan-tariq-06a003321)
+- **LinkedIn:** [linkedin.com/in/faizan-tariq-06a003321](https://www.linkedin.com/in/faizan-tariq-06a003321)
 
 ---
 
