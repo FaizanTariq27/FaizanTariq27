@@ -7,7 +7,7 @@ I have experience working with Python for backend development, and I also enjoy 
 
 ---
 
-## 🧑‍💻 Technical Skills  
+## 💻 Technical Skills  
 - **Languages & Frameworks:** Python, Django, JavaScript, React.js, Node.js, Express.js, Flutter  
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools & Platforms:** Firebase, Git, GitHub, VS Code
