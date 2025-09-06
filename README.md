@@ -1,7 +1,7 @@
 # Faizan Tariq
 
 ## 👨‍🎓 About Me  
-I'm a Computer Science student at Air University, Islamabad, with a strong interest in Data Science and AI. I'm currently learning Data Science through hands-on projects and certifications.
+I'm a Computer Science student at Air University, Islamabad, with a strong interest in AI/ML. I'm currently learning AI/ML through hands-on projects and certifications.
 
 I have experience working with Python for backend development, and I also enjoy building full-stack web and mobile applications.
 
@@ -22,7 +22,7 @@ I have experience working with Python for backend development, and I also enjoy 
 ---
 
 ## 📚 Currently Learning  
-- Data Science  
+- Artifical Intelligence 
 - Machine Learning  
 
 ---
